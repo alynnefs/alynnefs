@@ -11,7 +11,8 @@
   <img width="405px" align="left" src="https://github-readme-stats.vercel.app/api?username=alynnefs&theme=dark"/>
 </center>
 
-<br /><br />
+<br/><br/><br/><br/><br/><br/>
+ 
 ## Olá, eu sou Alynne!
 
 (Com y 2 n mesmo, não foi typo)
@@ -36,6 +37,7 @@
 
 📚 Gosto de ler no tempo livre, mas ultimamente não consigo terminar os livros que comecei
 
+😤 Boa parte dos commits desse repositório sou eu brigando com quebra de linha
 
 
 (ainda vou terminar de arrumar isso)
