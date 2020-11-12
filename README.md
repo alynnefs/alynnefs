@@ -1,16 +1,22 @@
-### Hi there 👋
+![](https://komarev.com/ghpvc/?username=alynnefs&color=blue&style=flat)
 
-<!--
-**alynnefs/alynnefs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![Alt text](https://github.com/alynnefs/alynnefs/blob/main/images/capa.png)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<center>
+  <img width="405px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alynnefs&hide=html&layout=compact&theme=dark" />
+  <img width="405px" align="left" src="https://github-readme-stats.vercel.app/api?username=alynnefs&theme=dark"/>
+</center>
+<br /><br /><br /><br /><br /><br />
+
+
+
+# Olar!
+
+<a href="https://twitter.com/_alynnefs"><img src="https://github.com/alynnefs/alynnefs/blob/main/images/twitter.png" width="16"></img></a> [Twitter](https://twitter.com/_alynnefs) 
+
+<a href="https://www.linkedin.com/in/alynnefs"><img src="https://github.com/alynnefs/alynnefs/blob/main/images/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/alynnefs)  
+
+- 🧒🏼 Pronomes: ela/dela
+
+(ainda vou terminar de arrumar isso)
