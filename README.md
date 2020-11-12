@@ -14,6 +14,7 @@
 
 
 # Olá, eu sou Alynne!
+
 (Com y 2 n mesmo, não foi typo)
 
 ## Redes antissociais:
