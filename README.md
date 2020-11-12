@@ -4,14 +4,15 @@
 ![Alt text](https://github.com/alynnefs/alynnefs/blob/main/images/capa.png)
 
 <center>
-  <img width="405px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alynnefs&hide=html&layout=compact&theme=dark" />
+  <img width="50%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alynnefs&hide=html&layout=compact&theme=dark" />
 </center>
 
 <center>
-  <img width="405px" align="left" src="https://github-readme-stats.vercel.app/api?username=alynnefs&theme=dark"/>
+  <img width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=alynnefs&theme=dark"/>
 </center>
 
-<br/><br/><br/><br/><br/><br/>
+
+&nbsp;
  
 ## Olá, eu sou Alynne!
 
