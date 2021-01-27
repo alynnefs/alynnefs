@@ -32,7 +32,7 @@
 
 🐍 Prefiro Python, mas pagando boleto, que mal tem?
 
-👩🏼‍💻 Já mexi com entretenimento e conectividade para aviônicos, agora mexo com IIoT ("i" duplo mesmo, é Internet Industrial das Coisas)
+👩🏼‍💻 Já mexi com entretenimento e conectividade para aviônicos, agora mexo com IIoT ("i" duplo mesmo, é Internet das Coisas Industrial)
 
 💃🏼 Atualmente faço aula de heels dance e contemporâneo, mas morro de saudade do tango e do jazz
 
