@@ -1,12 +1,3 @@
-<center>
-  <img width="50%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alynnefs&hide=html&layout=compact&theme=dark" />
-</center>
-
-<center>
-  <img width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=alynnefs&theme=dark"/>
-</center>
-
-
 ![](https://komarev.com/ghpvc/?username=alynnefs&color=blue&style=flat)
 
 &nbsp;
@@ -88,3 +79,11 @@
 
 
 (ainda vou terminar de arrumar isso)
+
+<center>
+  <img width="50%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alynnefs&hide=html&layout=compact&theme=dark" />
+</center>
+
+<center>
+  <img width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=alynnefs&theme=dark"/>
+</center>
