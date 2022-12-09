@@ -25,6 +25,10 @@
 - Comsolid
     - 🎤 | BINGO! Automatizando a criação de cartelas com Pillow
     - 📢 | [Divulgação](https://www.instagram.com/p/CkwbPJTuMzE/)
+- Pyjamas Conf
+    - 🎤 | Pythinder: using kivy so you’re not ghosted 👻
+    - 📢 | [Divulgação](https://pyjamas.live/schedule/#session-18)
+    - 🎬 | [Palestra](https://youtu.be/tDidfa9UuKA?list=PLiwrSoq9tHkGiicFTvbX3Wc8WjErtm4vf&t=689)
 
 2021
 - Castálio Podcast
