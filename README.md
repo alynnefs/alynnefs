@@ -6,10 +6,6 @@
 
 (Com y 2 n mesmo, não foi typo)
 
-## Redes antissociais:
-
-<a href="https://twitter.com/_alynnefs"><img src="https://github.com/alynnefs/alynnefs/blob/main/images/twitter.png" width="16"></img></a> [Twitter](https://twitter.com/_alynnefs) 
-
 <a href="https://www.linkedin.com/in/alynnefs"><img src="https://github.com/alynnefs/alynnefs/blob/main/images/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/alynnefs)  
 
 ## Palestras (talvez não lembre de todas):
