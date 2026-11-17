@@ -10,10 +10,26 @@
 
 ## Palestras e tutoriais:
 
+2026
+- Python Nordeste
+    - 🐍 | Big Kahuna da edição de Fortaleza
+
 2025
 - Python Nordeste
-    - 🎤 | Flask: do básico até a API
+    - 🛠️ | Flask: do básico até a API
     - 📢 | [Divulgação](https://www.instagram.com/p/DJUPyyjMtmy)
+
+- PyLadies Fortaleza
+    - 🎤 | Desvendando a tecnologia: Dev Back-end
+    - 📢 | [Divulgação]( https://www.instagram.com/p/DNytSq92ATJ/)
+
+- SESCOMP Russas
+    - 🛠️ | Construindo seu primeiro back-end: APIs com Flask
+    - 📢 | [Divulgação](https://www.instagram.com/p/DPmxEmzksco/)
+
+- PyLadies Fortaleza
+    - 🛠️ | Flask: do básico até a API
+    - 📢 | [Divulgação](https://www.instagram.com/p/DHzJqjwvIBW/)
 
 - Bando de Mulher Tech
     - 🎤 | Roda de conversa sobre comunidades
@@ -28,8 +44,16 @@
 - Python Brasil
     - 🎤 | Criando uma loja online com py.space 
     - 📢 | [Divulgação no site](https://talks.python.org.br/pythonbrasil-2024/talk/P88CPC/)
-    - 📢 | [Divulgação](Ihttps://www.instagram.com/p/C_8-TVgulfq/)
+    - 📢 | [Divulgação](https://www.instagram.com/p/C_8-TVgulfq/)
     - 🎬 | [Palestra](https://www.youtube.com/watch?v=5xsmGufEXNQ&t=1260s)
+ 
+- PyLadies Fortaleza
+    - 🛠️ | Flask: do básico até a API
+    - 📢 | [Divulgação](https://www.instagram.com/p/C6qwxyXqcj_/)
+
+- PyLadies Fortaleza
+    - 🎤 | Oficina de Palestras
+    - 📢 | [Divulgação](https://www.instagram.com/p/C6qp4t6vOHY/)
 
 - Git Together
     - 🎤 | BINGO! Automatizando a criação de cartelas com Pillow
@@ -79,7 +103,7 @@
 2020
 - PyLadies São Paulo (Oficina de palestras)
     - 🎤 | Moça, pode repetir? - Laços de repetição com Python
-    - Sem divulgação e não foi gravado 😭
+
 - Papo Entre PyLadies
     - 🎤 | Organizando uma oficina de Python básico
     - 📢 | [Divulgação](https://www.instagram.com/p/CCUHODxH2bI/)
@@ -109,6 +133,8 @@
 ## Fatos aleatórios:
 
 🧒🏼 Pronomes: ela/dela
+
+🐍 Recebi o [Prêmio Dorneles Treméa | Jean Ferri](https://apyb.python.org.br/apyb/premio-dorneles-tremea-jean-ferri/#python-brasil-2023-caxias-do-sul-rs) em 2023
 
 🧐 JS está como linguagem mais utilizada, mas por causa de cursos.
 
