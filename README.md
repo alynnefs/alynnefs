@@ -8,12 +8,53 @@
 
 <a href="https://www.linkedin.com/in/alynnefs"><img src="https://github.com/alynnefs/alynnefs/blob/main/images/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/alynnefs)  
 
-## Palestras (talvez não lembre de todas):
+## Palestras e tutoriais:
+
+2025
+- Python Nordeste
+    - 🎤 | Flask: do básico até a API
+    - 📢 | [Divulgação](https://www.instagram.com/p/DJUPyyjMtmy)
+
+- Bando de Mulher Tech
+    - 🎤 | Roda de conversa sobre comunidades
+    - 📢 | [Divulgação](https://www.instagram.com/p/DNnmbV3TJBJ/)
+
+2024
+- PyCon US
+    - 🎤 | Graphs and Vogue Dance: using data structures to create choreographies
+    - 📢 | [Divulgação](https://us.pycon.org/2024/schedule/presentation/11/index.html)
+    - 🎬 | [Palestra](https://www.youtube.com/watch?v=QfOWAdarfEU)
+
+- Python Brasil
+    - 🎤 | Criando uma loja online com py.space 
+    - 📢 | [Divulgação no site](https://talks.python.org.br/pythonbrasil-2024/talk/P88CPC/)
+    - 📢 | [Divulgação](Ihttps://www.instagram.com/p/C_8-TVgulfq/)
+    - 🎬 | [Palestra](https://www.youtube.com/watch?v=5xsmGufEXNQ&t=1260s)
+
+- Git Together
+    - 🎤 | BINGO! Automatizando a criação de cartelas com Pillow
+    - 📢 | [Divulgação](https://www.instagram.com/p/Cu4SY_CLArh/)
+
+- 1º MeetUp Front End CE
+    - 🎤 | Sambando com Python
+    - 🎤 | Roda de conversa sobre comunidades
+    - 📢 | [Divulgação](https://www.instagram.com/p/C30GMQ4LD7O/)
+
+
+2023
+- Python Nordeste
+    - 🎤 | Grafos e Vogue Dance: como criar coreografias 
+    - 🎬 | [Palestra](https://www.youtube.com/watch?v=vdLIymnZ13A)
+
+- PyLadies BR Conf [3]
+    - 🎤 | Expressões Regulares com Python
+    - 📢 | [Divulgação](https://www.instagram.com/p/DJRsNbAxZWT)
 
 2022
 - Python Nordeste
     - 🎤 | Pythinder: usando Kivy para não ficar no vácuo
     - 📢 | [Divulgação](https://www.instagram.com/p/ChYbMsyMZRb/)
+    
 - Python Brasil
     - 🎤 | BINGO! Automatizando a criação de cartelas com Pillow
     - 📢 | [Divulgação](https://www.instagram.com/p/CjWSWU4LYXw/)
@@ -44,6 +85,10 @@
     - 📢 | [Divulgação](https://www.instagram.com/p/CCUHODxH2bI/)
     - 🎬 | [Palestra](https://youtu.be/lRAkw7CHB5k?t=1401)
 
+- Women Techmakers SJC
+    - 🎤 | Moça, pode repetir? - Laços de repetição com Python
+    - 📢 | [Divulgação](https://www.instagram.com/p/CAyx2qkAccU/)
+
 2019
 - Just Python SP
     - 🎤 | Moça, pode repetir? - Laços de repetição com Python
@@ -71,12 +116,7 @@
 
 👩🏼‍💻 Já mexi com entretenimento e conectividade para aviônicos e mexo com IIoT ("i" duplo mesmo, é Internet das Coisas Industrial). Hoje uso Flask e estou estudando Django.
 
-💃🏼 Atualmente faço aula de heels dance faço parte de um grupo independente de jazz.
-
-📚 Gosto de ler no tempo livre, mas ultimamente não consigo terminar os livros que comecei.
-
 😤 Boa parte dos commits desse repositório sou eu brigando com quebra de linha.
-
 
 (ainda vou terminar de arrumar isso)
 
